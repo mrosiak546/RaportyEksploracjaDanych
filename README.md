@@ -1,4 +1,4 @@
-\# Projekty analizy danych w Pythonie
+# Projekty analizy danych w Pythonie
 
 Repozytorium zawiera dwa niezależne projekty analityczne wykonane w języku Python, obejmujące:
 - regresję kosztów ubezpieczenia zdrowotnego,
